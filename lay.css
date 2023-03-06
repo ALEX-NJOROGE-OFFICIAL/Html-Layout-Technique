@@ -1,0 +1,26 @@
+header{
+    border: 1px solid red;
+    background-color: lightgray;
+    margin: 2px;
+    padding: 2px;
+}
+
+ol{
+    list-style: none;
+    color: blue;
+
+}
+
+aside{
+    width: 300px;
+    border: 2px solid yellow;
+    margin-left: 15px;
+    padding-left: 15px;
+    margin-bottom: -20px;
+    float: right;
+    background-color: brown;
+}
+
+#txt{
+    float: right;
+}
